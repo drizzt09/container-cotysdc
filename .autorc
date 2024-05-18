@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "drizzt09",
+  "repo": "container-cotysdc",
+  "name": "drizzt09",
+  "email": "drizzt09@gmail.com",
+}
